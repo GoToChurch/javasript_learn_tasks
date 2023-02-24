@@ -1,1 +1,1 @@
-# javasript_learn_tasks
+Задания из учебника https://learn.javascript.ru
